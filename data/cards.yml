@@ -1,0 +1,8 @@
+- name: 'Bordeaux'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/bordeaux'
+- name: 'Berlin'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
+- name: 'Paris'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+- name: 'Shanghai'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/shanghai'
